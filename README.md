@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Anomaly Detection in Time Series Sensor Data
 capstone
 ==============================
 
