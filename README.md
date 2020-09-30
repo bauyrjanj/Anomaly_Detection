@@ -1,6 +1,6 @@
 # Anomaly Detection in Time Series Sensor Data
 
-## Step 1: Problem Identification
+## Problem Identification
 
 #### Problem Statement: 
  XYZ company operates a manufacturing plant and makes household cleaning supplies such as detergents, shampoo etc. for over 50 customers across 4 different countries with the revenue of USD800 million per year. Their operations heavily depend on over 30 industrial pumps across their manufacturing plant to make their products. In the last 6 months, one of their pumps failed 7 times unexpectedly resulting in an estimated USD500,000 in production loss and additional USD300,000 in environmental damage due to the spilled toxic chemicals.  To avoid this problem in the future, they want to be able to detect anomalies in the pump behaviour and be able to stop the pump before it goes down hard.
