@@ -55,7 +55,9 @@ Samwell Tarly - Maintenance Manager of the XYZ Company
 
 * Jupyter Notebook that contains all of the Python code
  
-* Published article on TowardsDataScience 
+* Published article on TowardsDataScience (https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538)
+
+
 ==============================
 
 Project Organization
