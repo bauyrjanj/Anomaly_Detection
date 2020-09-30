@@ -58,8 +58,6 @@ Samwell Tarly - Maintenance Manager of the XYZ Company
 * Published article on TowardsDataScience 
 ==============================
 
-Detect anomalies to predict equipment failure
-
 Project Organization
 ------------
 
